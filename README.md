@@ -15,6 +15,25 @@ that became **wider** (less secure), such as a destination silently changed to `
   (passwords, keys, SNMP communities) are ignored and never displayed or exported.
 - **Fast.** A 1,500-page PDF with 10,000+ rules is compared in about 15 seconds on a laptop.
 
+## Screenshots
+
+**Dashboard**: matching rate, KPIs, status per ACL and the top risks.
+![Dashboard](assets/screenshots/dashboard.png)
+
+**Rule diff**: ASA (before) vs FTD (after); here the destination was widened to ANY.
+![Rule diff](assets/screenshots/rule-diff.png)
+
+**Rules**: every rule pair with filters, severity and flags.
+![Rules](assets/screenshots/rules.png)
+
+**Hit counts**: rules with 0 hits marked as garbage.
+![Hit counts](assets/screenshots/hit-counts.png)
+
+**New comparison**: drop the ASA config and the FMC report.
+![New comparison](assets/screenshots/new-comparison.png)
+
+*Screenshots use generated demo data, not a real firewall.*
+
 ## Quick start (Windows)
 
 ### Option A — the packaged app
