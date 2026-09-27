@@ -175,4 +175,4 @@ sibit/
 
 ## Credits
 
-Built by **Zahoor Ishfaq**. Developed with the help of [Claude](https://www.anthropic.com/claude) by Anthropic.
+Built by **Zahoor Ishfaq**, using [Claude Code](https://www.anthropic.com/claude-code) as the coding agent.
